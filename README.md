@@ -1,4 +1,4 @@
-# ✨ Oii, eu sou a Maria Vitória  
+# ✨ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F736DE&width=435&lines=Oii%2C++eu+sou+a+Maria+Vit%C3%B3ria)](https://git.io/typing-svg)
 
 🎓 Engenharia de Software (6º período)  
 💻 Em constante evolução como desenvolvedora  
