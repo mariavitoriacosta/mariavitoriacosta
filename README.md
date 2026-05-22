@@ -36,12 +36,12 @@ Gosto de transformar o que aprendo na faculdade em projetos práticos e entender
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarceloHOPV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariavitoriacosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     alt="GitHub stats"
   />
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarceloHOPV&layout=compact&langs_count=16&theme=dracula"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariavitoriacosta&layout=compact&langs_count=16&theme=dracula"
     alt="Top languages"
   />
 </p>
