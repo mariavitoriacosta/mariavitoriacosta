@@ -33,11 +33,18 @@ Gosto de transformar o que aprendo na faculdade em projetos práticos e entender
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-  <a href="https://github.com/mariavitoriacosta">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=mariavitoriacosta&theme=dracula"/>
-  </a>
-</div>
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarceloHOPV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    alt="GitHub stats"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarceloHOPV&layout=compact&langs_count=16&theme=dracula"
+    alt="Top languages"
+  />
+</p>
 
 ---
 
